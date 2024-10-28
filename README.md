@@ -1,14 +1,16 @@
-### study-of-basic-gates
+### NAME : SACHIN.S
+### REG NO. : 24900576
+# EXPERIMENT 1 : Study Of Basic Gates
 
-**AIM:** 
+# AIM:
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
 
-**Equipments Required:**
+# EQUIPMENTS REQUIRED:
 
 Software – Quartus prime 
 
-**Theory**
+# THEORY
 
 Introduction Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as
 
@@ -49,7 +51,7 @@ Y= A⊕B
 The 'Exclusive-NOR' gate circuit does the opposite to the EX-OR gate. It will give a low output if either, but not both of its two inputs are high. The symbol is an EX-OR gate with a small circle on the output. The small circle represents inversion.
 Y= A⊕B
 
-**Procedure** 
+# PROCEDURE
 
 1.	Type the program in Quartus software.
 
@@ -62,18 +64,29 @@ Y= A⊕B
 5.	For different input combinations generate the timing diagram.
 
 
-**PROGRAM**
-
-Program for logic gates and verify its truth table in quartus using Verilog programming
-
- Developed by: RegisterNumber: 
+# PROGRAM :
  
-**Logic symbol & Truthtable**
+![logic gates](https://github.com/user-attachments/assets/5da04932-be91-4c03-816d-cd010a868d5d)
 
-**RTL realization Output:** 
 
-**RTL**
 
-**Result:**
+# LOGIC SYMBOL & TRUTH TABLE :
+
+![LOGIC GATE](https://github.com/user-attachments/assets/1e917943-4c67-4169-9b83-25e53fefa94e)
+
+
+# RTL OUTPUT :
+
+
+
+![logicgate2](https://github.com/user-attachments/assets/3bc58557-b7f3-4d0a-97e0-aa1b7a707b23)
+
+# OUTPUT WAVEFORM :
+![logicggate3](https://github.com/user-attachments/assets/403f55d3-1ca9-4282-b2ba-9ed1a8959dac)
+
+# RESULT :
+
+the truth table of logic gates in Quartus II using Verilog programming is studied and verified sucessfully
+
 
 
